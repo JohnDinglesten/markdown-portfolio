@@ -1,1 +1,1 @@
-[mrbeef][https://mrbeef.dk/]
+[mrbeef](https://mrbeef.dk/)
