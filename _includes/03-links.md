@@ -1,1 +1,1 @@
-https://mrbeef.dk/
+https://[mrbeef].dk/
